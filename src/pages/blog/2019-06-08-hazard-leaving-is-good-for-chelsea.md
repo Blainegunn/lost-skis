@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Hazard Leaving is Good for Chelsea
 date: 2019-06-09T03:07:01.619Z
 description: 'Why CFC''s decision to let Eden Hazard to leave the club was a good idea. '
-featuredpost: true
+featuredpost: false
 featuredimage: /img/eden.jpg
 tags:
   - Chelsea
