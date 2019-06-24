@@ -10,6 +10,11 @@ description: >-
   tempus imperdiet nulla malesuada pellentesque.
 featuredpost: true
 featuredimage: /img/barcelona_chelsea_messiydembele.jpg
+tags:
+  - Football
+  - Soccer
+  - FC Barcelona
+  - Nike
 ---
 ![Dembele](/img/ousmane-dembele-1.jpg "I see you")
 
