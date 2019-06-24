@@ -13,7 +13,6 @@ body
   border-radius: 0
   background-color: #fff
   border: 1px #000 solid
-  height: 260px
 
 // .blog-list-item .featured-thumbnail
 //     position: absolute
@@ -43,7 +42,51 @@ footer
 p.post-meta
     background: #fff
     color: $red
+    width: 60%
     z-index: 1
-    font-size: 16px
     padding-right: 10px
     padding-bottom: 10px
+
+.blog-list-item header
+    margin-bottom: 0
+
+span.subtitle.is-size-5.is-block.date
+    color: #000
+    font-size: 12px !important
+
+.notification
+  padding: 20px
+
+footer a.navbar-item:hover, footer a.navbar-item.is-active
+  background: transparent
+
+article:hover
+  opacity: 0.5
+
+.taglist-big li
+  border: none
+
+
+
+@media screen and (max-width: 1087px)
+  .navbar-item
+    margin-left: 0
+    margin-right: 0
+    padding-left: 0
+    padding-right: 0
+
+  .section--gradient
+    padding-left: 0
+    padding-right: 0
+
+  p.post-meta
+    width: 100%
+
+  .navbar-item img
+    width: 70px !important
+
+  .section
+    padding-top: 0
+
+  .blog-list-item div.featured-thumbnail
+    max-width: 100%

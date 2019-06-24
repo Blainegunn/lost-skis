@@ -37,7 +37,7 @@ class BlogRoll extends React.Component {
                   ) : null}
                   <p className="post-meta">
                       {post.frontmatter.title}
-                    <span className="subtitle is-size-5 is-block">
+                    <span className="subtitle is-size-5 is-block date">
                       {post.frontmatter.date}
                     </span>
                   </p>
