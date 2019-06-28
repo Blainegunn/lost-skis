@@ -19,4 +19,6 @@ tags:
 
 ![](/img/fa19_bb_gianniszf1_bq5422-800_lateral_fs_original.jpg)
 
-![]()
+![](/img/fa19_bb_gianniszf1_bq5422-100_lateral_tilt_fs_original.jpg)
+
+![](/img/fa19_bb_gianniszf1_bq5422-001_lateral_fs_original.jpg)
