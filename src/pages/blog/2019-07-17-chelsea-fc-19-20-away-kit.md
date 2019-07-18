@@ -9,5 +9,9 @@ description: >-
   the "Pride of London". Top notch stuff.
 featuredpost: true
 featuredimage: /img/chelsea-away-men-jersey-nike-news_native_1600.jpg
+tags:
+  - Chelsea FC
+  - Soccer
+  - NIke
 ---
 ![](/img/chelsea-away-men-jersey-nike-news_rectangle_1600.jpg)
