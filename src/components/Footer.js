@@ -6,6 +6,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import youtube from '../img/social/youtube.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -39,6 +40,13 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="youtube" href="https://www.youtube.com/channel/UClhI8U9HIAZ8-NvZRA_1nzA">
+                  <img
+                    src={youtube}
+                    alt="Youtube"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
