@@ -8,7 +8,7 @@ description: >-
   Arcu ac tortor dignissim convallis aenean et tortor. Dui ut ornare lectus sit
   amet. Sagittis orci a scelerisque purus semper eget duis. Risus at ultrices mi
   tempus imperdiet nulla malesuada pellentesque.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/barcelona_chelsea_messiydembele.jpg
 tags:
   - Football
